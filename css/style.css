@@ -50,3 +50,22 @@ body {
     width: 150px;
     height: 150px;
 }
+
+.button_js {
+    text-align: center;
+}
+
+#myButton {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: #de83be;
+    color: #011520;
+    font-weight: bold;
+}
+
+#demo img {
+    margin-top: 20px;
+    width: 25%;
+}
